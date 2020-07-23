@@ -20,3 +20,4 @@ A simple register/login/logout page that stores in a database.
 
 
 ## Database
+![](pictures/database.png)
